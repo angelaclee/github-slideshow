@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+behind every man is an asshole
 Use the left arrow to go back!
